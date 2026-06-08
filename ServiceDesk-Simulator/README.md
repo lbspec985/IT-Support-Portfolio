@@ -16,7 +16,7 @@ These tickets represent real‑world scenarios I would encounter in an entry‑l
 
 ## Skills Demonstrated
 - **Active Directory** — User verification, group membership, permissions  
-- **Networking** — VPN, mapped drives, server connectivity, ISP outages  
+- **Networking** — VPN, mapped drives, server connectivity, ISP outages, switch/router troubleshooting  
 - **Troubleshooting** — Layered problem analysis, root cause identification  
 - **Remote Support** — Device access, user guidance, verification  
 - **Communication** — Clear updates to users, escalation when needed  
@@ -41,9 +41,9 @@ Root cause: ISP outage + secondary VPN disconnection.
 **[View Ticket](ca://s?q=Open_my_Department_Transfer_ticket)**  
 Root cause: Outdated AD group membership after department change.
 
-### **3. 3rd Floor Internet Outage** *(in progress)*  
-**[Start Ticket](ca://s?q=Choose_the_3rd_floor_internet_outage_ticket)**  
-Root cause: Pending investigation.
+### **3. 3rd Floor Internet Outage**  
+**[View Ticket](ca://s?q=Open_my_3rd_Floor_Internet_Outage_ticket)**  
+Root cause: Core router and Floor 3 switch required reboot to restore connectivity.
 
 (More tickets will be added as I complete them.)
 
