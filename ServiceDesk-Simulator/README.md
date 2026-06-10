@@ -49,6 +49,9 @@ Root cause: Core router and Floor 3 switch required reboot to restore connectivi
 **[View Ticket](ca://s?q=Open_my_Password_Reset_Issue_Maria_Garcia_ticket)**  
 Root cause: Password expired during 3‑week absence; user unable to change it from login screen.
 
+### **5. Second Monitor Issue — Amanda Foster**  
+**[View Ticket](ca://s?q=Open_my_Second_Monitor_Issue_Amanda_Foster_ticket)**  
+Root cause: Outdated Windows system state prevented proper multi‑monitor detection; resolved after installing pending system update.
 (More tickets will be added as I complete them.)
 
 ---
