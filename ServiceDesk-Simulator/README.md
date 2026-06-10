@@ -45,6 +45,10 @@ Root cause: Outdated AD group membership after department change.
 **[View Ticket](ca://s?q=Open_my_3rd_Floor_Internet_Outage_ticket)**  
 Root cause: Core router and Floor 3 switch required reboot to restore connectivity.
 
+### **4. Password Reset Issue — Maria Garcia**  
+**[View Ticket](ca://s?q=Open_my_Password_Reset_Issue_Maria_Garcia_ticket)**  
+Root cause: Password expired during 3‑week absence; user unable to change it from login screen.
+
 (More tickets will be added as I complete them.)
 
 ---
