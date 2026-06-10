@@ -55,7 +55,7 @@ Root cause: Outdated Windows system state prevented proper multi‑monitor detec
 (More tickets will be added as I complete them.)
 
 ### **6. Office Printer Outage — Dorothy Martinez**  
-**[View Ticket](ca://s?q=Open_my_Printer_Outage_Dorothy_Martinez_ticket)**  
+[View Ticket](ca://s?q=Open_my_Printer_Outage_Dorothy_Martinez_ticket) 
 Root cause: Printer outage was caused by a server dependency; issue resolved automatically after a server reboot performed during another ticket.
 ---
 
