@@ -33,30 +33,28 @@ Each ticket includes:
 - Resolution  
 - What I learned  
 
-### **1. Shared Drive Access Issue**  
-**[View Ticket](ca://s?q=Open_my_Shared_Drive_ticket)**  
+### **1. Shared Drive Access Issue**   
 Root cause: ISP outage + secondary VPN disconnection.
 
-### **2. Department Transfer Access Update**  
-**[View Ticket](ca://s?q=Open_my_Department_Transfer_ticket)**  
+### **2. Department Transfer Access Update**   
 Root cause: Outdated AD group membership after department change.
 
-### **3. 3rd Floor Internet Outage**  
-**[View Ticket](ca://s?q=Open_my_3rd_Floor_Internet_Outage_ticket)**  
+### **3. 3rd Floor Internet Outage**   
 Root cause: Core router and Floor 3 switch required reboot to restore connectivity.
 
-### **4. Password Reset Issue — Maria Garcia**  
-**[View Ticket](ca://s?q=Open_my_Password_Reset_Issue_Maria_Garcia_ticket)**  
+### **4. Password Reset Issue — Maria Garcia**   
 Root cause: Password expired during 3‑week absence; user unable to change it from login screen.
 
 ### **5. Second Monitor Issue — Amanda Foster**  
-**[View Ticket](ca://s?q=Open_my_Second_Monitor_Issue_Amanda_Foster_ticket)**  
 Root cause: Outdated Windows system state prevented proper multi‑monitor detection; resolved after installing pending system update.
 (More tickets will be added as I complete them.)
 
 ### **6. Office Printer Outage — Dorothy Martinez**  
-[View Ticket](ca://s?q=Open_my_Printer_Outage_Dorothy_Martinez_ticket) 
 Root cause: Printer outage was caused by a server dependency; issue resolved automatically after a server reboot performed during another ticket.
+
+### 8. Slow Internet Performance — Building-Wide (David Lee)
+Root cause: Core Router was in a degraded state (routing table bloat / process leak), causing building‑wide bandwidth collapse; reboot restored full throughput.
+
 ---
 
 ## Purpose of This Folder
